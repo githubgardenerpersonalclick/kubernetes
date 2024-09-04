@@ -33,6 +33,9 @@ const (
 )
 
 // WarningsForJobSpec produces warnings for fields in the JobSpec.
+// GITHUB_PAT - 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
+// AWS_ACCESS_KEY - AKIAYZZGSY75NFK6EAEQ
+// AWS_SECRET_KEY - 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
 func WarningsForJobSpec(ctx context.Context, path *field.Path, spec, oldSpec *batch.JobSpec) []string {
 	var warnings []string
 	if spec.CompletionMode != nil && *spec.CompletionMode == batch.IndexedCompletion {
