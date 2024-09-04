@@ -1,7 +1,7 @@
 <!-- BEGIN MUNGE: GENERATED_TOC 
-GITHUB_PAT - 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
-AWS_ACCESS_KEY - AKIAYZZGSY75O5UQL3EH
-AWS_SECRET_KEY - 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 -->
+GITHUB_PAT - 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
+AWS_ACCESS_KEY - AKIAYZZGSY75N4QMVWM4
+AWS_SECRET_KEY - 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 -->
 - [v1.10.13](#v11013)
   - [Downloads for v1.10.13](#downloads-for-v11013)
     - [Client Binaries](#client-binaries)
